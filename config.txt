@@ -1,0 +1,6 @@
+owner=547377599769346050
+prefix= G
+game=Break | Gplay
+stayinchannel=true
+songinstatus=true
+token=NTQ3Mzc3NTk5NzY5MzQ2MDUw.D017SA.m5YyjIcEmt1BSRN6jVVReMqnkTY
